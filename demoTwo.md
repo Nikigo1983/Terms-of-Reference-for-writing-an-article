@@ -69,7 +69,7 @@ In ***Scrum***, each team member has a role and area of responsibility in the pr
 
 Focusing the team's work on a certain number of tasks, limiting the time limits of the sprint, and the personal responsibility for their part of the work of each team member allows to achieve fast results. Figure 1 shows how to run a ***sprint*** as a team:
 
-![Sprint](./sprint-example.webp){:height="100px" width="300 px"}
+![Sprint](./sprint-example.webp)
 
 Figure 1
 
@@ -84,7 +84,7 @@ Unlike ***Scrum***, ***Kanban*** has no time-limited sprints. The workflow is co
 ### Task Limit
 A feature of ***Kanban*** is the principle of ***work-in-progress limit (WIP)***. This means that the number of tasks in work at the same time on the same stage is limited. This helps the team avoid overload and work more efficiently on a particular task list. Figure 2 below shows one of the variants of a ***kanban board*** with task stickers:
 
-![Kanban](./Kanban.jpg){:height="100px" width="300px"}
+![Kanban](./Kanban.jpg)
 
 Figure 2
 
